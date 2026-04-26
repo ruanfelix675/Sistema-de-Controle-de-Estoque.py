@@ -1,3 +1,4 @@
+# projeto iniciado em 2026
 '''1. cadastrar_produtos()
 • Recebe os nomes dos produtos
 • Armazena os produtos e quantidades em um dicionário
